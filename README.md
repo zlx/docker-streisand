@@ -21,7 +21,7 @@ Sets up a container running https://github.com/jlund/streisand, meant for deploy
 
 
 ```
-git clone https://github.com/gdoteof/docker-streisand.git
+git clone https://github.com/zlx/docker-streisand.git
 
 cd docker-streisand
 
